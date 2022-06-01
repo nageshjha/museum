@@ -1,0 +1,16 @@
+{
+  "name": "assembly",
+  "version": "1.0.0",
+  "description": "Museum visitor task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:museum": "node server.js"
+  },
+  "author": "nagesh jha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.1",
+    "request": "2.88.2"
+  }
+}
