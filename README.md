@@ -1,7 +1,7 @@
 # museum
 Museum visitor assembly
 # Step 1:  git clone -b museum_master https://github.com/nageshjha/museum
-# Step 2: "go to your cloned directory" 
+# Step 2: "go to your cloned directory called museum " 
 # Step 3: npm i
 # step 4: npm run start:museum
 # Step 5: go to your browser 
